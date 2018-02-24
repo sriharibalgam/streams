@@ -1,0 +1,28 @@
+What Could You Build with Node
+
+WebSocket Server   -- Char Server
+Fast File Uploader Client
+Ad Server
+Any Real Time apps
+
+
+Node is not a web framework
+
+ Dont Imitate -- UNDERSTAND
+
+
+Micro Processor:
+    Speaks
+        IA-32
+        x86-64
+        ARM
+        MIPS
+
+Machine Code:
+    Programming languages spoken by computer
+    Every programs run on computer has been converted int o MX
+
+Machine Code-> Assembly Language-> C/C++ ->Javascript
+
+Node is written in C++
+V8 is written in C++
